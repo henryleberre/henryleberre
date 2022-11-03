@@ -1,3 +1,1 @@
-🔭 I'm a **Student Researcher** at the [**Computational Physics Group**](https://github.com/comp-physics), studying at the Georgia Institute of Technology.
-
-👨‍💻 I **optimize [MFC](https://github.com/MFlowCode)**, an **exascale GPU-accelerated** high fidelity fluid simulation code.
+🔭 I'm a **Student Researcher** at the [**Computational Physics Group**](https://github.com/comp-physics) (Georgia Institute of Technology, CSE). I **optimize [MFC](https://github.com/MFlowCode)**, an **exascale GPU-accelerated** high fidelity fluid simulation code.
