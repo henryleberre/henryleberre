@@ -1,1 +1,1 @@
-🔭 I'm a **Student Researcher** at the [**Computational Physics Group**](https://github.com/comp-physics). I **optimize [MFC](https://github.com/MFlowCode)**, an **exascale GPU-accelerated** high fidelity fluid simulation code.
+🔭 I'm a **Student Researcher** at the [**Computational Physics Group**](https://github.com/comp-physics) and work on **[MFC](https://github.com/MFlowCode)**, an **exascale GPU-accelerated CFD** code.
